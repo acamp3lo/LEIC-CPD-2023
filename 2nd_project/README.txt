@@ -2,8 +2,7 @@
 
 
 --> Directory Instructions:
-	-> Source file are in the /src folder.
-	-> Class files are ...
+	-> Source files are in the /src folder.
 
 
 --> Run Instructions:
