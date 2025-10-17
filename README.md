@@ -1,6 +1,6 @@
 # CPD Projects
 
-CPD Projects of group T10G10.
+CPD (Computação Paralela e Distribuída) projects of group T10G10.
 
 Group members:
 
